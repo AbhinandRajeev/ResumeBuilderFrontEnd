@@ -1,6 +1,6 @@
 import React from "react";
-import banner1 from "../assets/images/banner1.jpg";
-import resume3 from "../assets/images/resume3.png";
+import banner1 from "../assets/Images/banner1.jpg";
+import resume3 from "../assets/Images/resume3.png";
 import { Container, Grid, Box, Typography, Button, Paper } from "@mui/material";
 import { FaFileAlt, FaEnvelope, FaBriefcase, FaClipboardList } from "react-icons/fa";
 import { Link } from "react-router-dom";
